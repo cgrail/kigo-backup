@@ -1,0 +1,7 @@
+Options +Indexes
+
+# SET INDEX OPTIONS
+IndexOptions VersionSort IgnoreCase FoldersFirst SuppressHTMLPreamble FancyIndexing SuppressSize SuppressLastModified SuppressDescription SuppressColumnSorting SuppressRules HTMLTable
+HeaderName /material/.htaccess_templates/header.html
+ReadmeName /material/.htaccess_templates/footer.html
+IndexIgnore ..
